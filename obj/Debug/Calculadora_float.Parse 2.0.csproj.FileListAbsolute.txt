@@ -1,0 +1,8 @@
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\bin\Debug\Calculadora_float.Parse 2.0.exe.config
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\bin\Debug\Calculadora_float.Parse 2.0.exe
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\bin\Debug\Calculadora_float.Parse 2.0.pdb
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\obj\Debug\Calculadora_float.Parse 2.0.csprojResolveAssemblyReference.cache
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\obj\Debug\Calculadora_float.Parse_2._.MainForm.resources
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\obj\Debug\Calculadora_float.Parse 2.0.csproj.GenerateResource.Cache
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\obj\Debug\Calculadora_float.Parse 2.0.exe
+F:\C#\Calculadora_float.Parse 2.0\Calculadora_float.Parse 2.0\obj\Debug\Calculadora_float.Parse 2.0.pdb
